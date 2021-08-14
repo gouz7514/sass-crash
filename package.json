@@ -1,0 +1,23 @@
+{
+  "name": "sass-crash",
+  "version": "1.0.0",
+  "description": "Sass Crash Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gouz7514/sass-crash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gouz7514/sass-crash/issues"
+  },
+  "homepage": "https://github.com/gouz7514/sass-crash#readme",
+  "dependencies": {
+    "sass": "^1.37.5"
+  }
+}
