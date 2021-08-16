@@ -17,11 +17,13 @@
 }
 
 .btn-primary {
-  background-color: white;
+  background-color: #418bff;
+  color: #fff;
 }
 
 .btn-secondary {
   background-color: #ff8700;
+  color: #fff;
 }
 
 * {
@@ -45,8 +47,8 @@ a {
 }
 
 .showcase {
-  background-color: #e0ffff;
-  color: #333;
+  background-color: #0e6cff;
+  color: #fff;
   height: 600px;
 }
 
@@ -70,7 +72,7 @@ a {
 }
 
 .showcase a {
-  color: #333;
+  color: #fff;
 }
 
 .showcase-content {
